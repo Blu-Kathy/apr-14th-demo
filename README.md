@@ -3,3 +3,4 @@
 no secret
 
 regular workflow
+secret = 'ASDfhohqpu1038ruyFlkjq'
